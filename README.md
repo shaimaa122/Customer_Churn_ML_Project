@@ -17,11 +17,11 @@
 - We expect the customer leave company because have dependents, that's mean the customer who have dependents need more services. (More price)
 
 
-
 ### Second: Build LogisticRegression Model and Improve it:
 We noticed some null values and replace it, we extract Categorical features, we split our data to test and train data then make best hyperparams to build LogisticRegression model and improve it.
 
 ### Third: Ideas for customer retention programs:
 - We noticed the prices for the Fiber service are expensive, some discounts may help people increase their demand for the service.
 - The company should apply discounts or offer on the most important service (Internet services) to increase the customers.
--  We noticed the most costumers have dependents dont stay in the company long because the higher price, should on the company make more offers for this class.
+- We noticed the most costumers have dependents don't stay in the company long because they payied more price, should on the company make more offers for this class.
+- Most of the Customer who leave the company were the ones who had a month to month contract, The company should focus on improve months to months contract to customer retention.
