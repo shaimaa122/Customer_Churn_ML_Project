@@ -1,5 +1,5 @@
 # Customer_Churn_ML_Project
-## Group members:
+### Group members:
 - Shaima Alharbi 
 - Ebtisam Alrehili 
 ---
