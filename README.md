@@ -4,6 +4,7 @@
 - Ebtisam Alrehili 
 ---
 ### In this project we work on  [Customer Churn data set](https://github.com/gumdropsteve/intro_to_machine_learning/raw/main/day_05/data/churn_data.csv).
+[Data Dictionary ](https://docs.google.com/document/d/1SxzoPHWxoLHx_kiPTZEzZOoda2chHbHLdMGAFsGIqCY/edit)
 
 ### First: Exploratory data analysis(EDA):
 - The price of the Fiber service is higher than the price of the DSL service
